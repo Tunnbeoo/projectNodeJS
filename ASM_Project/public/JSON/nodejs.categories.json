@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae218931713b"
+  },
+  "name": "Horned rattlesnake",
+  "description": "Ford"
+},
+{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae218931713c"
+  },
+  "name": "Gecko, barking",
+  "description": "Mazda"
+},
+{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae218931713d"
+  },
+  "name": "Kangaroo, brush-tailed rat",
+  "description": "Oldsmobile"
+},
+{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae218931713e"
+  },
+  "name": "Scaly-breasted lorikeet",
+  "description": "GMC"
+},
+{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae218931713f"
+  },
+  "name": "Marine iguana",
+  "description": "Maserati"
+},
+{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae2189317140"
+  },
+  "name": "Coke's hartebeest",
+  "description": "Mercedes-Benz"
+},
+{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae2189317141"
+  },
+  "name": "Adouri (unidentified)",
+  "description": "Subaru"
+},
+{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae2189317142"
+  },
+  "name": "Rufous tree pie",
+  "description": "Toyota"
+},
+{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae2189317143"
+  },
+  "name": "Stilt, black-winged",
+  "description": "Toyota"
+},
+{
+  "_id": {
+    "$oid": "65f4ecd1fc13ae2189317144"
+  },
+  "name": "Common rhea",
+  "description": "GMC"
+}]

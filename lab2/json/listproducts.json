@@ -1,0 +1,52 @@
+{
+    "listProduct":[
+        {
+            "id":1,
+            "title":"Sống Xanh Như Lá Trà",
+            "slug":"song-xanh-nhu-la-tra",
+            "price":"63500",
+            "description":"Khám phá kho tàng ý tưởng về sự đơn giản, trí tuệ của người Nhật",
+            "imageURL":"song-xanh-nhu-nhung-la-tra.png",
+        },
+        {
+            "id":2,
+            "title":"Sống Như Lần Đầu, Yêu Như Lần Cuối",
+            "slug":"song-nhu-lan-dau-tien-yeu-thuong-nhu-lan-cuoi",
+            "price":"52000",
+            "description":"Những câu chuyện hằng ngày, những hành phúc giản dị mà ta dễ bỏ lỡ",
+            "imageURL":"song-nhu-lan-dau-tien-yeu-thuong-nhu-lan-cuoi.jpg",
+        },
+        {
+            "id":3,
+            "title":"Sức mạnh của sự tử tế",
+            "slug":"suc-manh-cua-su-tu-te",
+            "price":"29000",
+            "description":"Những câu chuyện sâu sắc và ý nghĩa về sự tử tế mỗi ngày",
+            "imageURL":"suc-manh-cua-su-tu-te.png",
+        },
+        {
+            "id":4,
+            "title":"Cân Bằng cảm Xúc",
+            "slug":"can-bang-cam-xuc",
+            "price":"39000",
+            "description":"Cân bằng cảm xúc lúc bảo giông",
+            "imageURL":"can-bang-cam-xuc-ca-luc-bao-giong.jpg",
+        },
+        {
+            "id":5,
+            "title":"Để Có Một Tương Lai",
+            "slug":"de-co-mot-tuong-lai",
+            "price":"49000",
+            "description":"Tương lai là gì, làm sao để định hướng được tương lai",
+            "imageURL":"de-co-mot-tuong-lai.png",
+        },
+        {
+            "id":6,
+            "title":"Sống Chậm Đợi Nắng Lên",
+            "slug":"song-cham-doi-nang-len",
+            "price":"79000",
+            "description":"Cảm nhận cuộc sống hằng ngày một cách chậm rãi",
+            "imageURL":"song-cham-doi-nang-len.png",
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Tủ đựng rượu teka RVU",
+      "image": "tu-ruou-teka-RVU-20046-300x300.jpg",
+      "price": "70.900.000đ"
+    },
+    {
+      "id": "2",
+      "name": "Tủ đựng rượu teka RVI",
+      "image": "tu-ruou-teka-RVI-10024-GBK-2-300x300.jpg",
+      "price": "70.900.000đ"
+    },
+    {
+      "id": "3",
+      "name": "Tủ đựng rượu trưng bày",
+      "image": "tu_trung_bay_01.jpg",
+      "price": "12.900.000đ"
+    },
+    {
+      "id": "4",
+      "name": "Ghế Sofa Future",
+      "image": "ghe-sofa-future-phong-cach-hien-dai-3.jpg",
+      "price": "33.900.000đ"
+    },
+    {
+      "id": "5",
+      "name": "Bàn làm việc TM35",
+      "image": "ban-lam-viec-TM35.jpg",
+      "price": "3.900.000đ"
+    },
+    {
+      "id": "7",
+      "name": "Bàn làm việc TM43",
+      "image": "ban-lam-viec-TM43.jpg",
+      "price": "3.800.000đ"
+    },
+    {
+      "id": "8",
+      "name": "Tủ đựng rượu teka RVU",
+      "image": "tu-ruou-teka-RVU-20046-300x300.jpg",
+      "price": "70.900.000đ"
+    },
+    {
+      "id": "9",
+      "name": "Tủ đựng rượu teka RVI",
+      "image": "tu-ruou-teka-RVI-10024-GBK-2-300x300.jpg",
+      "price": "70.900.000đ"
+    },
+    {
+      "id": "10",
+      "name": "Tủ đựng rượu trưng bày",
+      "image": "tu_trung_bay_01.jpg",
+      "price": "12.900.000đ"
+    },
+    {
+      "id": "11",
+      "name": "Ghế Sofa Future",
+      "image": "ghe-sofa-future-phong-cach-hien-dai-3.jpg",
+      "price": "33.900.000đ"
+    },
+    {
+      "id": "12",
+      "name": "Bàn làm việc TM35",
+      "image": "ban-lam-viec-TM35.jpg",
+      "price": "3.900.000đ"
+    },
+    {
+      "id": "13",
+      "name": "Bàn làm việc TM40",
+      "image": "ban-lam-viec-TM40.jpg",
+      "price": "2.900.000đ"
+    },
+    {
+      "id": "12",
+      "name": "Bàn làm việc TM35",
+      "image": "ban-lam-viec-TM35.jpg",
+      "price": "3.900.000đ"
+    },
+    {
+      "id": "14",
+      "name": "Bàn làm việc TM43",
+      "image": "ban-lam-viec-TM43.jpg",
+      "price": "3.800.000đ"
+    },
+    {
+      "id": "353d",
+      "name": "Tủ đựng rượu teka RVU",
+      "price": "71.900.000đ",
+      "image": "tu-ruou-teka-RVU-20046-300x300.jpg",
+      "date": 1708681612560
+    }
+  ]
+}

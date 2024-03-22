@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop Page</title>
+    <!-- Đường dẫn tới CSS hoặc các tài nguyên khác -->
+    <!-- <link rel="stylesheet" href="/path/to/your/styles.css"> -->
+
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        li {
+            width: 30%;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            padding: 15px;
+            box-sizing: border-box;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+            width: 200px;
+            max-height: 600px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Mua Sách Đọc Đê :></h1>
+
+    <% if (products.length > 0) { %>
+        <ul>
+            <% products.forEach(product => { %>
+                <li>
+                    <h2><%= product.title %></h2>
+                    <img src="/images/<%= product.imageURL %>" alt="<%= product.title %>">
+                    <p><strong>Giá:</strong> <%= product.price %> VND</p>
+                    <p><strong>Mô tả:</strong> <%= product.description %></p>
+                </li>
+            <% }); %>
+        </ul>
+    <% } else { %>
+        <p>No products available.</p>
+    <% } %>
+
+    <!-- Đường dẫn tới các script JavaScript hoặc các tài nguyên khác -->
+    <!-- <script src="/path/to/your/script.js"></script> -->
+</body>
+
+</html>

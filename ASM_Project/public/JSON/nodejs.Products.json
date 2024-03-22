@@ -1,0 +1,70 @@
+[{
+    "_id": {
+      "$oid": "65f4ecd1fc13ae2189317145"
+    },
+    "name": "Bánh matcha 1",
+    "description": "test",
+    "image": "hinh2.jpg",
+    "price": 90000,
+    "quantity": 10,
+    "category": {
+      "categoryId": "65f4ecd1fc13ae218931713b",
+      "categoryName": "Bánh ngọt"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f4ecd1fc13ae2189317146"
+    },
+    "name": "Bánh matcha 2",
+    "description": "test",
+    "image": "hinh3.jpg",
+    "price": 90000,
+    "quantity": 10,
+    "category": {
+      "categoryId": "65f4ecd1fc13ae218931713b",
+      "categoryName": "Bánh ngọt"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f4ecd1fc13ae2189317147"
+    },
+    "name": "Bánh matcha 3",
+    "description": "test",
+    "image": "hinh4.jpg",
+    "price": 90000,
+    "quantity": 10,
+    "category": {
+      "categoryId": "65f4ecd1fc13ae218931713b",
+      "categoryName": "Bánh ngọt"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f4ecd1fc13ae2189317148"
+    },
+    "name": "Bánh matcha 4",
+    "description": "test",
+    "image": "hinh5.jpg",
+    "price": 90000,
+    "quantity": 10,
+    "category": {
+      "categoryId": "65f4ecd1fc13ae218931713b",
+      "categoryName": "Bánh ngọt"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f4ecd1fc13ae2189317149"
+    },
+    "name": "Bánh matcha 5",
+    "description": "test",
+    "image": "hinh6.jpg",
+    "price": 90000,
+    "quantity": 10,
+    "category": {
+      "categoryId": "65f4ecd1fc13ae218931713b",
+      "categoryName": "Bánh ngọt"
+    }
+  }]
