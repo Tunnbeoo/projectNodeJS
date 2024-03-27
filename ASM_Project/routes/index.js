@@ -38,3 +38,15 @@ async function getByCategory(category) {
 }
 
 module.exports = router;
+
+
+router.post('./addcategory', async(req,res)=>{
+  try{
+    const body = req.body
+    const cateNew = await categoryContrller.insertCategory(body)
+    return res.status(200).json({categoryNew :cateNew})
+  } catch (error){
+    console.log('Lỗi thêm danh mục', error);
+    return res.status(500).json({mess: error})
+  }
+})

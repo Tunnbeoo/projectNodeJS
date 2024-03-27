@@ -1,9 +1,8 @@
-//ket noi collection products
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const ObjectId = Schema.ObjectId;
 
-const productsschema = new Schema({
+const productSchema = new Schema({
     name: { type: String, required: true },
     price: { type: Number, required: true },
     quantity: { type: Number, required: true },
@@ -15,9 +14,8 @@ const productsschema = new Schema({
             categoryName: { type: String, required: true }
         },
         required: true
-    }
-    view: { type: Number, require: false },
-
+    },
+    view: { type: Number, required: false }, // Sửa lỗi chính tả từ "require" thành "required" và thêm dấu phẩy
 });
-module.exports = mongoose.models.products
-    || mongoose.model('products', productsschema);
+
+module.exports = mongoose.models.products || mongoose.model('products', productSchema);

@@ -2,17 +2,16 @@
 const mongoose = require('mongoose');
 const productModel = require('./product.model');
 const categoryModel = require('./category.model');
-const Schema = mongoose.Schema.Schema
+const Schema = mongoose.Schema;
 const ObjectId = Schema.ObjectId
 
 const categorySchema = new Schema({
-    name: { type: String, require: true },
-    description: { type: String, require: true }
-})
+    name: { type: String, required: true },
+    description: { type: String, required: true }
+});
 
 
-module.exports = mongoose.models.category
-    || mongoose.model('category', categorySchema)
+module.exports = mongoose.model('Category', categorySchema);
 
 module.exports = { insert, getAll }
 async function insert(body) {
